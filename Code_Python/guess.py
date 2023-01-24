@@ -3,6 +3,8 @@ import random
 lives = 3
 score = 0
 
+# It will display the number of lives you have and the score you have earned
+
 while lives > 0:
     number = random.randint(1,10)
 
