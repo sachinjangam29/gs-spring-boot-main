@@ -1,0 +1,19 @@
+File Automation Scripts:
+
+
+File Backup Script: A script that automatically backs up important files and folders to a remote server or external hard drive at a specific time or interval.
+
+File Synchronization Script: A script that automatically synchronizes files between multiple servers or computers in a network.
+
+File Archiving Script: A script that automatically archives old files and folders to a different location or deletes them after a certain period of time.
+
+File Transfer Script: A script that automatically transfers files from one location to another, such as from a local computer to a remote server or from one server to another.
+
+File Compression Script: A script that automatically compresses large files or folders to save storage space and reduce transfer time.
+
+File Renaming Script: A script that automatically renames files based on a specific naming convention or pattern.
+
+File Encryption Script: A script that automatically encrypts sensitive files for added security.
+
+File Monitoring Script: A script that continuously monitors a specific folder for new or modified files and takes some action based on the file type or the pattern.
+
